@@ -18,7 +18,7 @@ To get started with Chess Master Pro, follow these simple steps:
 
 ## 🎮 Demo
 
-Check out the [Chess Master Pro Demo](https://your-username.github.io/chess-master-pro/) to experience the game live!
+Check out the [Chess Master Pro Demo](https://sachinmhetre678.github.io/Chess_Game/) to experience the game live!
 
 ## 📷 Screenshots
 
