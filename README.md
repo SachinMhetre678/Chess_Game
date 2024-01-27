@@ -20,6 +20,45 @@ To get started with Chess Master Pro, follow these simple steps:
 
 Check out the [Chess Master Pro Demo](https://your-username.github.io/chess-master-pro/) to experience the game live!
 
+## 📷 Screenshots
+
+![image](https://github.com/SachinMhetre678/Chess_Game/assets/138901374/b599ca5b-a25f-4277-ab08-8cf82ec02a71)
+
+
+## 🌐 FEN Notation
+
+FEN (Forsyth-Edwards Notation) is a standard notation used to represent a particular chessboard position. It provides a concise and human-readable way to describe the placement of chess pieces on the board, as well as other important information about the position. Here's how FEN notation works:
+
+A FEN string consists of six fields separated by spaces:
+
+1. **Piece Placement (8 ranks)**:This field represents the positions of the pieces on the board. Each rank is represented by a series of characters, where:
+   - `K` represents a white king.
+   - `Q` represents a white queen.
+   - `R` represents a white rook.
+   - `B` represents a white bishop.
+   - `N` represents a white knight.
+   - `P` represents a white pawn.
+   - `k` represents a black king.
+   - `q` represents a black queen.
+   - `r` represents a black rook.
+   - `b` represents a black bishop.
+   - `n` represents a black knight.
+   - `p` represents a black pawn.
+   - Digits (1-8) represent empty squares, with the number indicating the count of consecutive empty squares.
+   For example, `rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR` represents the starting position of a chess game.
+
+3. **Active Color (1 character)**: ... (explained in detail as provided in the previous response)
+
+4. **Castling Availability (1-4 characters)**: ... (explained in detail as provided in the previous response)
+
+5. **En Passant Target Square (1-2 characters)**: ... (explained in detail as provided in the previous response)
+
+6. **Halfmove Clock (1-2 characters)**: ... (explained in detail as provided in the previous response)
+
+7. **Fullmove Number (1-2 characters)**: ... (explained in detail as provided in the previous response)
+
+You can use FEN notation to record and share specific chess positions and use them for various purposes, including setting up custom positions for analysis or practice.
+
 ## ♟️ Features
 
 - **Intuitive Interface**: A user-friendly chessboard with drag-and-drop functionality.
@@ -54,10 +93,5 @@ Check out the [Chess Master Pro Demo](https://your-username.github.io/chess-mast
 
 Test your skills against the computer's AI. Can you outsmart it? Give it a try!
 
-## 🤝 Contributions
-
-Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request.
-
 
 Enjoy Chess Master Pro and embrace the world of strategic brilliance! Checkmate! ♛♔
-
